@@ -1,2 +1,1 @@
-print("learnVscode")
-print("add")
+123
